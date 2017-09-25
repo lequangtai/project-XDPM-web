@@ -1,0 +1,51 @@
+
+.btn-labeled > b {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  background-color: rgba(0, 0, 0, 0.15);
+  display: block;
+  line-height: 1;
+  padding: 10px;
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+}
+.odiem{
+	width: 50px;
+	border: 0px;
+	text-align: center;
+}
+.center{
+  text-align: center;
+}
+.hoten{
+  width: 150px;
+}
+
+/*.table-striped>tbody>tr:nth-of-type(odd){
+  background-color: #b4bcc0;
+  
+}*/
+.thead{
+  background-color: #60aad6;
+  /* background:url("../img/blue.gif");*/
+}
+/*table.table-bordered th:last-child, table.table-bordered td:last-child {
+     border-right-width: 1; 
+}*/
+
+.tieude{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.bangdiem{
+  text-align: left;
+  font-weight: bold;
+  font-size: 20px;
+}
+.thongke{
+  width: 100px;
+  text-align: left;
+  font-size: 14px;
+}
